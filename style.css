@@ -96,8 +96,7 @@ h1{
 }
 
 #wrapper {
-    margin-left: 30%;
-    margin-right: 30%;
+margin: 30px 400px;
 	display: flex;
     
     background-color: #ffffff;
