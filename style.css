@@ -103,8 +103,8 @@ h1{
 }
 
 #wrapper {
-    padding-left: 10px;
-    padding-right: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
     margin: 30px 400px;
     background-color: #ffffff;
     border: 1px solid transparent;
