@@ -98,6 +98,7 @@ h1{
 #wrapper {
 margin: 30px 400px;
 	display: flex;
+	max-width: 960px;
     
     background-color: #ffffff;
     border: 1px solid transparent;
