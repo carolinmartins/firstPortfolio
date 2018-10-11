@@ -85,8 +85,8 @@ a {
 }	
 	  
 #wrapper {
-	padding-left: 10px;
-	padding-right: 10px;
+	padding-left: 30%;
+	padding-right: 30%;
 	display: flex;
 	max-width: 960px;	
     	
