@@ -96,7 +96,7 @@ h1{
 }
 
 #wrapper {
-margin: 30px 400px;
+padding: 30px 400px;
 	display: flex;
 	max-width: 960px;
     
